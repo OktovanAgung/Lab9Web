@@ -11,7 +11,7 @@
  - Buat folder baru dengan nama **lab9_php_modular** pada docroot webserver (htdocs)
  ![img](img/lab9phpmodular.png)
 
-- Buat file baru dengan nama **header.php
+- Buat file baru dengan nama **header.php**
 ![img](img/header.png)
 
 - Buat file baru dengan nama **footer.php**

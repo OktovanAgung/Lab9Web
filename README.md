@@ -16,3 +16,13 @@
 
 - Buat file baru dengan nama **footer.php**
 ![img](img/footer.png)
+
+- Buat file baru dengan nama **home.php**
+![img](img/home.png)
+
+- Buat file barudengan nama **about.php**
+![img](img/about.png)
+
+- Output dari semua code diatas
+![img](img/outputhome.png)
+![img](img/outputabout.png)

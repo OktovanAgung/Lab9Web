@@ -1,0 +1,18 @@
+| Nama  | Oktovan Agung Shailendra|
+|-------|-------------------------|
+|NIM    |: 312010131              |
+|Kelas  |: TI.20.A.1              |
+
+---
+ # Praktikum 9 PHP Modular
+
+ ## Langkah - Langkah Praktikum
+
+ - Buat folder baru dengan nama **lab9_php_modular** pada docroot webserver (htdocs)
+ ![img](img/lab9phpmodular.png)
+
+- Buat file baru dengan nama **header.php
+![img](img/header.png)
+
+- Buat file baru dengan nama **footer.php**
+![img](img/footer.png)

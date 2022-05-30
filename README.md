@@ -26,3 +26,8 @@
 - Output dari semua code diatas
 ![img](img/outputhome.png)
 ![img](img/outputabout.png)
+
+## Pertanyaan & Tugas
+Implementasikan konsep modularisasi pada kode program **praktikum 8** tentang database, sehingga setiap halamannya memiliki template tampilan yag sama.
+
+Berikut struktur direktori yang saya buat.

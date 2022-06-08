@@ -87,3 +87,9 @@ File utama untuk wadah memanggil sub-file di beberapa direktori
 ![img](img/lab8/output2.png)
 
 ![img](img/lab8/output3.png)
+
+---
+---
+
+# Praktikum 10 Dapat Diakses Melalui Link Berikut
+## https://github.com/OktovanAgung/Lab10Web.git
